@@ -1,0 +1,91 @@
+* {
+
+margin: 0px;
+padding: 0px;
+
+}
+
+body {
+
+background-color: #000000;
+color: #ffffff;
+font: 34px Arial;
+
+}
+
+
+#taskListDiv {
+
+margin: 100px auto 0px auto;
+width: 500px;
+
+}
+
+#headerDiv {
+
+margin-bottom: 10px;
+width: 500px;
+height: 50px;
+text-align: center;
+
+}
+
+#topBlock {
+
+margin-bottom: 10px;
+width: 500px;
+height: 70px;
+background-color: #696969;
+
+}
+
+#bottomBlock {
+
+margin-top: 10px;
+width: 500px;
+height: 20px;
+background-color: #696969;
+
+}
+
+.colorBlock {
+
+float: left;
+margin: 0 15px 0 0;
+width: 50px;
+height: 50px;
+background-color: #778899;
+
+}
+
+ul {
+
+list-style-type: none;
+width: 500px;
+
+}
+
+li p {
+
+margin-top: 12px;
+color: #2f4f4f;
+font: 20px Arial;
+
+}
+ 
+li {
+
+padding: 10px;
+overflow: auto;
+
+}
+ 
+li:hover {
+
+background: #a9a9a9;
+cursor: pointer;
+
+}
+
+
+
