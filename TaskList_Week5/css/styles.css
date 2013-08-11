@@ -1,0 +1,172 @@
+* {
+
+margin: 0px;
+padding: 0px;
+
+}
+
+body {
+
+background-color: #000000;
+color: #ffffff;
+font: 34px Arial;
+
+}
+
+#wrapper {
+
+margin: 100px auto 0px auto;
+width: 1024px;
+
+}
+
+#taskFormDiv {
+
+float: right;
+margin: 0px 0px 0px 24px;
+width: 400px;
+
+}
+
+#taskFormInner input {
+
+/*width: 0px;*/
+margin: 10px 0px 0px 0px;
+display: block;
+
+}
+
+#formHeaderDiv {
+
+margin-bottom: 10px;
+width: 400px;
+height: 50px;
+text-align: center;
+
+}
+
+#formTopBlock {
+
+margin-bottom: 10px;
+width: 400px;
+height: 70px;
+background-color: #696969;
+
+}
+
+#formBottomBlock {
+
+margin-top: 10px;
+width: 400px;
+height: 20px;
+background-color: #696969;
+
+}
+
+#taskListDiv {
+
+float: left;
+margin: 0px;
+width: 600px;
+
+}
+
+#headerDiv {
+
+margin-bottom: 10px;
+width: 600px;
+height: 50px;
+text-align: center;
+
+}
+
+#topBlock {
+
+margin-bottom: 10px;
+width: 600px;
+height: 70px;
+background-color: #696969;
+
+}
+
+#bottomBlock {
+
+margin-top: 10px;
+width: 600px;
+height: 20px;
+background-color: #696969;
+
+}
+
+.greyBlock {
+
+float: left;
+margin: 0 15px 0 0;
+width: 50px;
+height: 50px;
+background-color: #778899;
+
+}
+
+.greenBlock {
+
+float: left;
+margin: 0 15px 0 0;
+width: 50px;
+height: 50px;
+background-color: #00ff00;
+
+}
+
+.yellowBlock {
+
+float: left;
+margin: 0 15px 0 0;
+width: 50px;
+height: 50px;
+background-color: #ffff00;
+
+}
+
+.redBlock {
+
+float: left;
+margin: 0 15px 0 0;
+width: 50px;
+height: 50px;
+background-color: #ff0000;
+
+}
+
+ul {
+
+list-style-type: none;
+width: 600px;
+
+}
+
+li p {
+
+margin-top: 12px;
+color: #2f4f4f;
+font: 20px Arial;
+
+}
+ 
+li {
+
+list-style-type: none;
+padding: 10px;
+overflow: auto;
+
+}
+ 
+li:hover {
+
+background: #a9a9a9;
+cursor: pointer;
+
+}
+
+
+
